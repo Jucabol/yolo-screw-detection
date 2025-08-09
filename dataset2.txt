@@ -1,2 +1,2 @@
 You can download the Dataset here: https://universe.roboflow.com/juca-pqthg/yolo-screw-detection-5fvxu 
-In the notebook files all the models are pointed to the directory 'dataset2'
+In the notebook files all the models are pointed to the directory 'dataset2/'
